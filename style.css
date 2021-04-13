@@ -1,0 +1,12 @@
+.myCity {
+    background: antiquewhite;
+}
+
+.myCity h4 {
+    font-size: 50px;
+    text-align: center;
+}
+.myCity img {
+    max-width: 100%;
+    height: auto;
+}
